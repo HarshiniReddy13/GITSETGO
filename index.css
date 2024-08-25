@@ -91,3 +91,23 @@ p{
     margin: 25px;
     font-weight: 300;
 }
+footer{
+    background-color:rgba(252, 250, 243, 0.97);
+    display: flex;
+    padding-top: 40px;
+    min-width: 1000px;  
+    justify-content: space-around;
+    margin-top: 60px;  
+    height: 75px;
+    flex-wrap: wrap;
+}
+.f{
+    width:200px;
+    margin-left: 200px;  
+    margin-right: 200px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size:0.9rem;  }
+.z{
+    margin-left: 830px;
+}
